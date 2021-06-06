@@ -6,5 +6,5 @@ Exploratory analysis with SQL and visualization of COVID-19 datasets using Table
 
 
 ## **Data Source**
-You can download the datasets from [Our World in Data Website](https://ourworldindata.org/covid-deaths). 
-You can also download the datasets from their [github repository](https://github.com/owid/covid-19-data)
+You can download the datasets from [Our World in Data Website](https://ourworldindata.org/covid-deaths)
+or from their [github repository](https://github.com/owid/covid-19-data)
