@@ -1,8 +1,8 @@
 ## **COVID-19 Exploratory Analysis and Visualizations**
 Exploratory analysis with SQL and visualization of COVID-19 datasets using Tableau desktop.
 
-<img src="COVID-19-Total-Cases.png" width="600" height="800"/>
-<img src="People_Fully_Vaccinated_against_COVID-19.pn" width="600" height="800"/>
+<img src="COVID-19-Total-Cases.png" width="800" height="500"/>
+<img src="People_Fully_Vaccinated_against_COVID-19.png" width="600" height="400"/>
 
 
 ## **Data Source**
